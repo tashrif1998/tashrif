@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD TASRIF </h1>
 <h3 align="center">web developer from bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?usernametashrif1998&label=Profile%20views&color=0e75b6&style=flat" alt="tashrif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tashrif1998&label=PROFILE+VIEWS" alt="tashrif" /> </p>
 
 - 🌱 I’m currently learning **javascript**
 
